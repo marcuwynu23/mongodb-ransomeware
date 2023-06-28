@@ -9,19 +9,10 @@ The MongoDB Ransomware Tool is designed to simulate a ransomware attack specific
 
 This tool provides a controlled environment for users to experiment and study the potential consequences of a ransomware attack on MongoDB databases without causing harm to real-world data. It serves as an educational resource for understanding the impact and implications of ransomware attacks, as well as evaluating the effectiveness of existing security measures.
 
-### Key Features
-
-1. **Realistic Simulation**: The tool accurately replicates the behavior of a ransomware attack on MongoDB databases, demonstrating the potential damage that can be inflicted on unsecured or vulnerable deployments.
-
-2. **Customizability**: Users can configure various parameters, such as target database, encryption algorithms, ransom note contents, and payment details, to replicate different scenarios and assess the effectiveness of countermeasures.
-
-3. **Safe Environment**: The tool operates in a sandboxed environment to ensure that no actual data is compromised during experimentation. It allows users to gain hands-on experience with ransomware attacks while maintaining data integrity.
-
-4. **Documentation and Analysis**: The repository includes comprehensive documentation and analysis of the ransomware tool, detailing its functionalities, technical aspects, and recommended security practices to mitigate the risk of MongoDB ransomware attacks.
 
 ### Usage and Installation
 
-Please refer to the [Installation Guide](https://github.com/yourusername/mongodb-ransomware-tool/blob/main/docs/installation.md) for detailed instructions on setting up and running the MongoDB Ransomware Tool. The guide provides step-by-step procedures and necessary prerequisites to ensure a smooth execution of the tool.
+Please refer to the [Installation Guide](https://github.com/marcuwynu23/mongodb-ransomware/blob/main/docs/installation.md) for detailed instructions on setting up and running the MongoDB Ransomware Tool. The guide provides step-by-step procedures and necessary prerequisites to ensure a smooth execution of the tool.
 
 ### Contributions and Future Development
 
